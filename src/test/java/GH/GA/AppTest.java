@@ -13,11 +13,11 @@ public class AppTest
     /**
      * Create the test case
      *
-     * @param tName name of the test case
+     * @param tesName name of the test case
      */
-    public AppTest( String tName )
+    public AppTest( String tesName )
     {
-        super( tName );
+        super( tesName );
     }
 
     /**
